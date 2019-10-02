@@ -1,0 +1,7 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Список контактов в отрасли"
+    id="309d5b81-86a3-406e-8c39-320047c19c85">
+  <properties
+      key="Должны быть контакты конкретных людей"/>
+</archimate:DataObject>

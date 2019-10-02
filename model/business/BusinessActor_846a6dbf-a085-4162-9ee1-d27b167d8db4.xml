@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Клиент"
+    id="846a6dbf-a085-4162-9ee1-d27b167d8db4">
+  <properties
+      key="CRM"
+      value="portal.local"/>
+  <properties/>
+</archimate:BusinessActor>

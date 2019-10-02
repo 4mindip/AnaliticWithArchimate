@@ -1,0 +1,14 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Точка контакта с клиентом"
+    id="8e5de0ea-4c7c-44d5-b578-984106584941">
+  <properties
+      key="Точка продажи"
+      value="Сайт www..."/>
+  <properties
+      key="Точка продажи"
+      value="Отраслевые конференции"/>
+  <properties
+      key="Точка продажи"
+      value="Референсы и допродажи, апсейлы, кросссейлы"/>
+</archimate:BusinessInterface>

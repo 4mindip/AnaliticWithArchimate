@@ -1,0 +1,11 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Проекты по машинному обучению"
+    id="112dadfa-ffc7-4ce8-8f32-492e44b2b32b">
+  <properties
+      key="Продажники"
+      value="Услуги, каталог 1"/>
+  <properties
+      key="Юристы"
+      value="Договора оказания услуг"/>
+</archimate:Product>
